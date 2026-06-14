@@ -26,9 +26,9 @@ def run_ingestion_pipeline():
         return
 
     try:
-        # Run ingestion/run.py inside the workspace directory
+        # Run ingestion/run.py as a module from the workspace root
         result = subprocess.run(
-            [sys.executable, run_script],
+            [sys.executable, "-m", "ingestion.run"],
             cwd=workspace_root,
             capture_output=True,
             text=True,
@@ -46,6 +46,10 @@ def start_scheduler():
     target_hour = 10
     target_minute = 0
     logging.info(f"Daily scheduler initialized. Target execution time: {target_hour:02d}:{target_minute:02d} AM daily.")
+
+    # Run once immediately on startup for verification
+    logging.info("Running initial ingestion pipeline check...")
+    run_ingestion_pipeline()
 
     while True:
         now = datetime.datetime.now()
