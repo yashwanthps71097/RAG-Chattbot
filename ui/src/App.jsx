@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const API_URL = window.location.port === '5173' ? 'http://localhost:8000/api/chat' : '/api/chat';
+const API_URL = import.meta.env.VITE_API_URL || (window.location.port === '5173' ? 'http://localhost:8000/api/chat' : '/api/chat');
 
 function App() {
   const [view, setView] = useState('landing'); // 'landing', 'loading', 'answer', 'refusal'
