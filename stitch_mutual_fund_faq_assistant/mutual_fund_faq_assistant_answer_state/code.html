@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Search Results | Mutual Fund FAQ Assistant</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "error-container": "#ffdad6",
+                        "background": "#f8f9ff",
+                        "surface-variant": "#e0e2ea",
+                        "surface-container-low": "#f1f3fc",
+                        "secondary": "#006a62",
+                        "on-surface-variant": "#404752",
+                        "on-background": "#181c22",
+                        "surface-container-highest": "#e0e2ea",
+                        "on-primary-container": "#fdfcff",
+                        "on-primary": "#ffffff",
+                        "primary": "#005ea4",
+                        "inverse-on-surface": "#eef0f9",
+                        "on-surface": "#181c22",
+                        "error": "#ba1a1a",
+                        "on-secondary-fixed": "#00201d",
+                        "on-primary-fixed": "#001c38",
+                        "outline": "#707783",
+                        "outline-variant": "#c0c7d4",
+                        "surface-tint": "#0060a8",
+                        "tertiary-container": "#b35e00",
+                        "on-tertiary-container": "#fffbff",
+                        "secondary-fixed-dim": "#66d9cc",
+                        "surface-dim": "#d7dae2",
+                        "on-error-container": "#93000a",
+                        "surface": "#f8f9ff",
+                        "secondary-container": "#81f3e5",
+                        "tertiary-fixed": "#ffdcc4",
+                        "primary-fixed": "#d3e4ff",
+                        "on-tertiary": "#ffffff",
+                        "inverse-primary": "#a2c9ff",
+                        "on-secondary": "#ffffff",
+                        "on-error": "#ffffff",
+                        "primary-container": "#0077ce",
+                        "tertiary": "#8f4a00",
+                        "secondary-fixed": "#84f5e8",
+                        "surface-container-high": "#e5e8f0",
+                        "tertiary-fixed-dim": "#ffb780",
+                        "on-tertiary-fixed": "#2f1400",
+                        "on-secondary-container": "#006f66",
+                        "on-secondary-fixed-variant": "#005049",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary-fixed-variant": "#6f3800",
+                        "on-primary-fixed-variant": "#004881",
+                        "surface-container": "#ebeef6",
+                        "surface-bright": "#f8f9ff",
+                        "inverse-surface": "#2d3137",
+                        "primary-fixed-dim": "#a2c9ff"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "md": "16px",
+                        "2xl": "48px",
+                        "base": "4px",
+                        "margin-mobile": "16px",
+                        "lg": "24px",
+                        "xl": "32px",
+                        "xs": "4px",
+                        "3xl": "64px",
+                        "gutter": "24px",
+                        "sm": "8px",
+                        "max-width-desktop": "1200px"
+                    },
+                    "fontFamily": {
+                        "body-md": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "body-sm": ["Inter"],
+                        "display-lg": ["Inter"],
+                        "code-sm": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "headline-lg-mobile": ["Inter"],
+                        "label-md": ["Inter"],
+                        "headline-md": ["Inter"]
+                    },
+                    "fontSize": {
+                        "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                        "body-lg": ["18px", {"lineHeight": "28px", "fontWeight": "400"}],
+                        "body-sm": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                        "display-lg": ["48px", {"lineHeight": "56px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                        "code-sm": ["13px", {"lineHeight": "18px", "fontWeight": "500"}],
+                        "headline-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.01em", "fontWeight": "600"}],
+                        "headline-lg-mobile": ["24px", {"lineHeight": "32px", "fontWeight": "600"}],
+                        "label-md": ["14px", {"lineHeight": "16px", "letterSpacing": "0.01em", "fontWeight": "600"}],
+                        "headline-md": ["20px", {"lineHeight": "28px", "fontWeight": "600"}]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        body { font-family: 'Inter', sans-serif; }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .citation-recess { background-color: #F1F5F9; }
+        .faq-card-shadow { border: 1px solid #E2E8F0; transition: all 0.3s ease; }
+        .faq-card-shadow:hover {
+            border-left: 2px solid #005ea4;
+            box-shadow: 0 10px 15px -3px rgba(30, 136, 229, 0.1), 0 4px 6px -2px rgba(30, 136, 229, 0.05);
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background text-on-background min-h-screen flex flex-col">
+<!-- TopAppBar Component -->
+<header class="bg-surface border-b border-outline-variant sticky top-0 z-50">
+<div class="flex justify-between items-center px-lg py-md w-full max-w-max-width-desktop mx-auto">
+<div class="flex items-center gap-sm cursor-pointer">
+<span class="material-symbols-outlined text-primary" data-icon="account_balance">account_balance</span>
+<h1 class="font-headline-md text-headline-md font-bold text-primary">Mutual Fund FAQ Assistant</h1>
+</div>
+<div class="hidden md:flex items-center gap-lg">
+<span class="text-on-surface-variant font-label-md">Facts-Only Information</span>
+</div>
+</div>
+</header>
+<!-- Main Content Area -->
+<main class="flex-grow w-full max-w-max-width-desktop mx-auto px-lg py-3xl">
+<!-- Conversational Search Bar -->
+<div class="max-w-3xl mx-auto mb-2xl">
+<div class="relative group">
+<div class="absolute inset-y-0 left-0 pl-md flex items-center pointer-events-none">
+<span class="material-symbols-outlined text-outline" data-icon="search">search</span>
+</div>
+<input class="block w-full pl-xl pr-md py-xl border-outline-variant bg-surface-container-lowest rounded-xl text-body-lg focus:ring-2 focus:ring-primary focus:border-primary shadow-sm transition-all outline-none" placeholder="Ask a question about mutual funds..." type="text" value="What is the exit load for Parag Parikh Flexi Cap Fund?"/>
+<div class="absolute inset-y-0 right-md flex items-center gap-sm">
+<kbd class="hidden md:inline-flex items-center px-sm py-xs bg-surface-container text-outline text-code-sm rounded border border-outline-variant">Enter</kbd>
+<button class="bg-primary text-on-primary px-lg py-sm rounded-lg font-label-md hover:opacity-90 active:scale-95 transition-all">Search</button>
+</div>
+</div>
+</div>
+<!-- Answer Panel Section -->
+<section class="max-w-3xl mx-auto space-y-lg">
+<!-- Compliance Alert -->
+<div class="bg-surface-container-low border-l-4 border-tertiary p-md rounded-lg flex items-start gap-md">
+<span class="material-symbols-outlined text-tertiary" data-icon="warning">warning</span>
+<p class="text-body-sm text-on-surface-variant">
+                    Information provided is based on the Scheme Information Document (SID). Exit loads are subject to change by the AMC. Verify with the latest KIM before investing.
+                </p>
+</div>
+<!-- Answer Card -->
+<article class="bg-surface-container-lowest faq-card-shadow rounded-xl p-xl">
+<div class="mb-lg">
+<h2 class="font-headline-md text-headline-md text-on-surface mb-sm">What is the exit load for Parag Parikh Flexi Cap Fund?</h2>
+<div class="h-1 w-16 bg-primary rounded-full"></div>
+</div>
+<div class="space-y-md text-body-md text-on-surface-variant leading-relaxed">
+<p>
+                        The Parag Parikh Flexi Cap Fund implements a tiered exit load structure to discourage short-term withdrawals. Units redeemed within 365 days from the date of allotment are subject to a <span class="font-bold text-on-surface">2.00% exit load</span>. For redemptions occurring between 366 days and 730 days, the exit load is reduced to <span class="font-bold text-on-surface">1.00%</span>, while no exit load is applicable for units held beyond 2 years.
+                    </p>
+</div>
+<!-- Citation Card -->
+<div class="mt-xl p-md rounded-lg citation-recess border border-outline-variant/30">
+<div class="flex items-center gap-sm mb-xs">
+<span class="material-symbols-outlined text-secondary text-sm" data-icon="menu_book">menu_book</span>
+<span class="text-label-md font-bold text-on-surface">Primary Source</span>
+</div>
+<a class="text-primary text-body-sm hover:underline flex items-center gap-xs" href="#">
+                        Parag Parikh Flexi Cap Fund SID - Section 4.2 (Fees and Expenses)
+                        <span class="material-symbols-outlined text-xs" data-icon="open_in_new">open_in_new</span>
+</a>
+</div>
+<!-- Card Footer -->
+<div class="mt-2xl pt-lg border-t border-outline-variant flex flex-col md:flex-row justify-between items-center gap-md">
+<div class="flex items-center gap-sm">
+<span class="material-symbols-outlined text-secondary text-body-sm" data-icon="verified" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="text-body-sm text-outline">Last updated from sources: 12 Oct 2023</span>
+</div>
+<div class="flex items-center gap-md">
+<button class="flex items-center gap-xs text-on-surface-variant hover:text-primary transition-colors text-label-md group" title="Copy to clipboard">
+<span class="material-symbols-outlined text-body-sm" data-icon="content_copy">content_copy</span>
+                            Copy
+                        </button>
+<div class="h-4 w-px bg-outline-variant"></div>
+<button class="flex items-center gap-xs text-on-surface-variant hover:text-primary transition-colors text-label-md group" title="Verify source documentation">
+<span class="material-symbols-outlined text-body-sm" data-icon="fact_check">fact_check</span>
+                            Verify
+                        </button>
+</div>
+</div>
+</article>
+<!-- Metadata / Badges -->
+<div class="flex flex-wrap gap-sm">
+<span class="px-sm py-xs bg-secondary-container text-on-secondary-container rounded-full text-code-sm font-bold flex items-center gap-xs">
+<span class="material-symbols-outlined text-xs" data-icon="check_circle" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+                    Verified
+                </span>
+<span class="px-sm py-xs bg-surface-container-high text-on-surface-variant rounded-full text-code-sm font-bold">
+                    SEBI Filing
+                </span>
+<span class="px-sm py-xs bg-surface-container-high text-on-surface-variant rounded-full text-code-sm font-bold">
+                    Mutual Fund
+                </span>
+</div>
+</section>
+</main>
+<!-- Footer Component -->
+<footer class="bg-surface-container-low border-t border-outline-variant">
+<div class="flex flex-col md:flex-row justify-between items-center px-lg py-xl w-full max-w-max-width-desktop mx-auto gap-md">
+<div class="flex flex-col gap-xs">
+<span class="font-label-md text-label-md font-bold text-on-surface">Mutual Fund FAQ Assistant</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">© 2024 Mutual Fund FAQ Assistant. All rights reserved. Not an investment advisory.</p>
+</div>
+<nav class="flex flex-wrap justify-center gap-lg">
+<a class="text-on-surface-variant hover:text-primary transition-colors text-body-sm" href="#">Source Policy</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors text-body-sm" href="#">AMFI Regulatory</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors text-body-sm" href="#">SEBI Investor Charter</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors text-body-sm" href="#">Disclaimers</a>
+</nav>
+</div>
+</footer>
+<!-- Verification Popover (Implicit interaction) -->
+<div class="fixed inset-0 bg-black/20 backdrop-blur-sm hidden flex items-center justify-center z-[100] p-md" id="verify-popover">
+<div class="bg-surface rounded-xl shadow-2xl max-w-lg w-full p-xl border border-outline-variant">
+<div class="flex justify-between items-center mb-md">
+<h3 class="font-headline-md text-on-surface">Source Verification</h3>
+<button class="text-outline hover:text-on-surface" onclick="toggleVerify()">
+<span class="material-symbols-outlined" data-icon="close">close</span>
+</button>
+</div>
+<div class="bg-surface-container-highest p-md rounded-lg font-mono text-xs text-on-surface mb-md max-h-64 overflow-y-auto">
+                "The exit load for redemptions made within 365 days from the date of allotment is 2.00%. For redemptions between 366 days and 730 days, the exit load is 1.00%. No exit load is applicable for units held beyond 2 years from the date of allotment." - Source: Parag Parikh Flexi Cap Fund SID Page 44.
+            </div>
+<div class="flex justify-end">
+<button class="bg-primary text-on-primary px-lg py-sm rounded-lg font-label-md" onclick="toggleVerify()">Close Window</button>
+</div>
+</div>
+</div>
+<script>
+        function toggleVerify() {
+            const popover = document.getElementById('verify-popover');
+            popover.classList.toggle('hidden');
+        }
+
+        // Add event listener to the verify button in the card
+        document.querySelectorAll('button').forEach(btn => {
+            if (btn.innerText.includes('Verify')) {
+                btn.onclick = toggleVerify;
+            }
+            if (btn.innerText.includes('Copy')) {
+                btn.onclick = () => {
+                    const originalText = btn.innerHTML;
+                    btn.innerHTML = '<span class="material-symbols-outlined text-body-sm" data-icon="done">done</span> Copied';
+                    btn.classList.add('text-secondary');
+                    setTimeout(() => {
+                        btn.innerHTML = originalText;
+                        btn.classList.remove('text-secondary');
+                    }, 2000);
+                }
+            }
+        });
+    </script>
+</body></html>

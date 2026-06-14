@@ -1,0 +1,32 @@
+amc_name: "HDFC Mutual Fund"
+reference_platform: "Groww"
+
+schemes:
+  - slug: "hdfc-mid-cap-fund-direct-growth"
+    name: "HDFC Mid Cap Fund Direct Growth"
+    url: "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+    category: "Equity - Mid Cap"
+
+  - slug: "hdfc-large-cap-fund-direct-growth"
+    name: "HDFC Large Cap Fund Direct Growth"
+    url: "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+    category: "Equity - Large Cap"
+
+  - slug: "hdfc-small-cap-fund-direct-growth"
+    name: "HDFC Small Cap Fund Direct Growth"
+    url: "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+    category: "Equity - Small Cap"
+
+  - slug: "hdfc-gold-etf-fund-of-fund-direct-plan-growth"
+    name: "HDFC Gold ETF Fund of Fund Direct Plan Growth"
+    url: "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth"
+    category: "Other - Gold"
+
+  - slug: "hdfc-defence-fund-direct-growth"
+    name: "HDFC Defence Fund Direct Growth"
+    url: "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+    category: "Equity - Sectoral / Thematic (Defence)"
+
+educational_resources:
+  amfi_url: "https://www.amfiindia.com/investor-corner/educational-material.html"
+  sebi_url: "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListingAll=yes&cid=15"
