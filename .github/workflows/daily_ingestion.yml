@@ -9,6 +9,8 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write permission to push updated index files back to the repo
 
     steps:
       - name: Checkout Repository
