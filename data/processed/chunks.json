@@ -1,79 +1,79 @@
 [
     {
-        "id": "hdfc-small-cap-fund-direct-growth#overview",
-        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 160.418 (as of 02-Sep-2026). AUM: \u20b941679.0037 Cr. Launch Date: 01-Jan-2013.",
+        "id": "hdfc-mid-cap-fund-direct-growth#overview",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Category: Equity - Mid Cap. Risk Description: Moderately High risk. NAV: 235.494 (as of 03-Sep-2026). AUM: \u20b9105142.6943 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "overview",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Small Cap Fund Direct Growth] Expense Ratio: 0.75%",
+        "id": "hdfc-mid-cap-fund-direct-growth#expense_ratio",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Expense Ratio: 0.74%",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "expense_ratio",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#exit_load",
-        "text": "[HDFC Small Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
+        "id": "hdfc-mid-cap-fund-direct-growth#exit_load",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year.",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "exit_load",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#minimum_investment",
-        "text": "[HDFC Small Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
+        "id": "hdfc-mid-cap-fund-direct-growth#minimum_investment",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "minimum_investment",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#benchmark",
-        "text": "[HDFC Small Cap Fund Direct Growth] Benchmark: BSE 250 SmallCap Total Return Index",
+        "id": "hdfc-mid-cap-fund-direct-growth#benchmark",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Benchmark: NIFTY Midcap 150 Total Return Index",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "benchmark",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#fund_management#0",
-        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "id": "hdfc-mid-cap-fund-direct-growth#fund_management#0",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
         "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Dhruv Muchhal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#fund_management#1",
-        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
             "section": "fund_management",
             "manager_name": "Chirag Setalvad",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-mid-cap-fund-direct-growth#fund_management#1",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "metadata": {
+            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Dhruv Muchhal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
         }
     },
     {
         "id": "hdfc-defence-fund-direct-growth#overview",
-        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 31.273 (as of 02-Sep-2026). AUM: \u20b910709.1728 Cr. Launch Date: 02-Jun-2023.",
+        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 31.449 (as of 03-Sep-2026). AUM: \u20b910709.1728 Cr. Launch Date: 02-Jun-2023.",
         "metadata": {
             "scheme_name": "HDFC Defence Fund Direct Growth",
             "slug": "hdfc-defence-fund-direct-growth",
@@ -155,80 +155,8 @@
         }
     },
     {
-        "id": "hdfc-large-cap-fund-direct-growth#overview",
-        "text": "[HDFC Large Cap Fund Direct Growth] Category: Equity - Large Cap. Risk Description: Moderately High Riskometer risk. NAV: 1231.045 (as of 02-Sep-2026). AUM: \u20b940197.8895 Cr. Launch Date: 01-Jan-2013.",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "overview",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Large Cap Fund Direct Growth] Expense Ratio: 1.02%",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "expense_ratio",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#exit_load",
-        "text": "[HDFC Large Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "exit_load",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#minimum_investment",
-        "text": "[HDFC Large Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "minimum_investment",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#benchmark",
-        "text": "[HDFC Large Cap Fund Direct Growth] Benchmark: NIFTY 100 Total Return Index",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "benchmark",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#fund_management#0",
-        "text": "[HDFC Large Cap Fund Direct Growth] Fund Management: Rahul Baijal. Education: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Experience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Rahul Baijal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-large-cap-fund-direct-growth#fund_management#1",
-        "text": "[HDFC Large Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
-        "metadata": {
-            "scheme_name": "HDFC Large Cap Fund Direct Growth",
-            "slug": "hdfc-large-cap-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Dhruv Muchhal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
-        }
-    },
-    {
         "id": "hdfc-gold-etf-fund-of-fund-direct-plan-growth#overview",
-        "text": "[HDFC Gold ETF Fund of Fund Direct Plan Growth] Category: Commodities - Gold. Risk Description: Moderately High Riskometer risk. NAV: 46.6397 (as of 02-Sep-2026). AUM: \u20b911197.0455 Cr. Launch Date: 01-Jan-2013.",
+        "text": "[HDFC Gold ETF Fund of Fund Direct Plan Growth] Category: Commodities - Gold. Risk Description: Moderately High Riskometer risk. NAV: 47.5773 (as of 03-Sep-2026). AUM: \u20b911197.0455 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
             "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
             "slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
@@ -299,75 +227,147 @@
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#overview",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Category: Equity - Mid Cap. Risk Description: Moderately High risk. NAV: 235.185 (as of 02-Sep-2026). AUM: \u20b9105142.6943 Cr. Launch Date: 01-Jan-2013.",
+        "id": "hdfc-large-cap-fund-direct-growth#overview",
+        "text": "[HDFC Large Cap Fund Direct Growth] Category: Equity - Large Cap. Risk Description: Moderately High Riskometer risk. NAV: 1231.394 (as of 03-Sep-2026). AUM: \u20b940197.8895 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "overview",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Expense Ratio: 0.74%",
+        "id": "hdfc-large-cap-fund-direct-growth#expense_ratio",
+        "text": "[HDFC Large Cap Fund Direct Growth] Expense Ratio: 1.02%",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "expense_ratio",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#exit_load",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year.",
+        "id": "hdfc-large-cap-fund-direct-growth#exit_load",
+        "text": "[HDFC Large Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "exit_load",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#minimum_investment",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
+        "id": "hdfc-large-cap-fund-direct-growth#minimum_investment",
+        "text": "[HDFC Large Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "minimum_investment",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#benchmark",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Benchmark: NIFTY Midcap 150 Total Return Index",
+        "id": "hdfc-large-cap-fund-direct-growth#benchmark",
+        "text": "[HDFC Large Cap Fund Direct Growth] Benchmark: NIFTY 100 Total Return Index",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "benchmark",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#fund_management#0",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
+        "id": "hdfc-large-cap-fund-direct-growth#fund_management#0",
+        "text": "[HDFC Large Cap Fund Direct Growth] Fund Management: Rahul Baijal. Education: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Experience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "fund_management",
-            "manager_name": "Chirag Setalvad",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "manager_name": "Rahul Baijal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
         }
     },
     {
-        "id": "hdfc-mid-cap-fund-direct-growth#fund_management#1",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "id": "hdfc-large-cap-fund-direct-growth#fund_management#1",
+        "text": "[HDFC Large Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
         "metadata": {
-            "scheme_name": "HDFC Mid Cap Fund Direct Growth",
-            "slug": "hdfc-mid-cap-fund-direct-growth",
+            "scheme_name": "HDFC Large Cap Fund Direct Growth",
+            "slug": "hdfc-large-cap-fund-direct-growth",
             "section": "fund_management",
             "manager_name": "Dhruv Muchhal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
+            "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#overview",
+        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 160.9 (as of 03-Sep-2026). AUM: \u20b941679.0037 Cr. Launch Date: 01-Jan-2013.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "overview",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#expense_ratio",
+        "text": "[HDFC Small Cap Fund Direct Growth] Expense Ratio: 0.75%",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "expense_ratio",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#exit_load",
+        "text": "[HDFC Small Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "exit_load",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#minimum_investment",
+        "text": "[HDFC Small Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "minimum_investment",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#benchmark",
+        "text": "[HDFC Small Cap Fund Direct Growth] Benchmark: BSE 250 SmallCap Total Return Index",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "benchmark",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#fund_management#0",
+        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Dhruv Muchhal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#fund_management#1",
+        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Chirag Setalvad",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
         }
     }
 ]
