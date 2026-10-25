@@ -1,5 +1,88 @@
 [
     {
+        "id": "hdfc-defence-fund-direct-growth#overview",
+        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 28.393 (as of 23-Oct-2026). AUM: \u20b911493.39 Cr. Launch Date: 02-Jun-2023.",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "overview",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#expense_ratio",
+        "text": "[HDFC Defence Fund Direct Growth] Expense Ratio: 0.9%",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "expense_ratio",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#exit_load",
+        "text": "[HDFC Defence Fund Direct Growth] Exit Load: Exit load of 1%, if redeemed within 1 year.",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "exit_load",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#minimum_investment",
+        "text": "[HDFC Defence Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b90.",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "minimum_investment",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#benchmark",
+        "text": "[HDFC Defence Fund Direct Growth] Benchmark: Nifty India Defence Total Return Index",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "benchmark",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#fund_management#0",
+        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Priya Ranjan. Education: Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).. Experience: He has over 14 years of experience in equity research.",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Priya Ranjan",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#fund_management#1",
+        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Dhruv Muchhal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-defence-fund-direct-growth#fund_management#2",
+        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Rahul Baijal. Education: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Experience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
+        "metadata": {
+            "scheme_name": "HDFC Defence Fund Direct Growth",
+            "slug": "hdfc-defence-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Rahul Baijal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
+        }
+    },
+    {
         "id": "hdfc-large-cap-fund-direct-growth#overview",
         "text": "[HDFC Large Cap Fund Direct Growth] Category: Equity - Large Cap. Risk Description: Moderately High Riskometer risk. NAV: 1133.761 (as of 23-Oct-2026). AUM: \u20b937293.95 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
@@ -144,161 +227,6 @@
         }
     },
     {
-        "id": "hdfc-small-cap-fund-direct-growth#overview",
-        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 148.394 (as of 23-Oct-2026). AUM: \u20b940800.81 Cr. Launch Date: 01-Jan-2013.",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "overview",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Small Cap Fund Direct Growth] Expense Ratio: 0.8%",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "expense_ratio",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#exit_load",
-        "text": "[HDFC Small Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "exit_load",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#minimum_investment",
-        "text": "[HDFC Small Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "minimum_investment",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#benchmark",
-        "text": "[HDFC Small Cap Fund Direct Growth] Benchmark: BSE 250 SmallCap Total Return Index",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "benchmark",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#fund_management#0",
-        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Dhruv Muchhal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-small-cap-fund-direct-growth#fund_management#1",
-        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
-        "metadata": {
-            "scheme_name": "HDFC Small Cap Fund Direct Growth",
-            "slug": "hdfc-small-cap-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Chirag Setalvad",
-            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#overview",
-        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 28.393 (as of 23-Oct-2026). AUM: \u20b911493.39 Cr. Launch Date: 02-Jun-2023.",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "overview",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Defence Fund Direct Growth] Expense Ratio: 0.9%",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "expense_ratio",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#exit_load",
-        "text": "[HDFC Defence Fund Direct Growth] Exit Load: Exit load of 1%, if redeemed within 1 year.",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "exit_load",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#minimum_investment",
-        "text": "[HDFC Defence Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b90.",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "minimum_investment",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#benchmark",
-        "text": "[HDFC Defence Fund Direct Growth] Benchmark: Nifty India Defence Total Return Index",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "benchmark",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#fund_management#0",
-        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Priya Ranjan. Education: Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).. Experience: He has over 14 years of experience in equity research.",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Priya Ranjan",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#fund_management#1",
-        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Dhruv Muchhal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
-        "id": "hdfc-defence-fund-direct-growth#fund_management#2",
-        "text": "[HDFC Defence Fund Direct Growth] Fund Management: Rahul Baijal. Education: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Experience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
-        "metadata": {
-            "scheme_name": "HDFC Defence Fund Direct Growth",
-            "slug": "hdfc-defence-fund-direct-growth",
-            "section": "fund_management",
-            "manager_name": "Rahul Baijal",
-            "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth"
-        }
-    },
-    {
         "id": "hdfc-gold-etf-fund-of-fund-direct-plan-growth#overview",
         "text": "[HDFC Gold ETF Fund of Fund Direct Plan Growth] Category: Commodities - Gold. Risk Description: Moderately High Riskometer risk. NAV: 43.6921 (as of 23-Oct-2026). AUM: \u20b912013.27 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
@@ -368,6 +296,78 @@
             "section": "fund_management",
             "manager_name": "Nandita Menezes",
             "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#overview",
+        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 148.394 (as of 23-Oct-2026). AUM: \u20b940800.81 Cr. Launch Date: 01-Jan-2013.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "overview",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#expense_ratio",
+        "text": "[HDFC Small Cap Fund Direct Growth] Expense Ratio: 0.8%",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "expense_ratio",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#exit_load",
+        "text": "[HDFC Small Cap Fund Direct Growth] Exit Load: Exit load of 1% if redeemed within 1 year",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "exit_load",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#minimum_investment",
+        "text": "[HDFC Small Cap Fund Direct Growth] Minimum SIP Investment: \u20b9100. Minimum Additional Investment: \u20b9100.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "minimum_investment",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#benchmark",
+        "text": "[HDFC Small Cap Fund Direct Growth] Benchmark: BSE 250 SmallCap Total Return Index",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "benchmark",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#fund_management#0",
+        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Dhruv Muchhal. Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Dhruv Muchhal",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+    },
+    {
+        "id": "hdfc-small-cap-fund-direct-growth#fund_management#1",
+        "text": "[HDFC Small Cap Fund Direct Growth] Fund Management: Chirag Setalvad. Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
+        "metadata": {
+            "scheme_name": "HDFC Small Cap Fund Direct Growth",
+            "slug": "hdfc-small-cap-fund-direct-growth",
+            "section": "fund_management",
+            "manager_name": "Chirag Setalvad",
+            "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
         }
     }
 ]
