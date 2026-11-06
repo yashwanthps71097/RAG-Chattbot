@@ -1,7 +1,7 @@
 [
     {
         "id": "hdfc-mid-cap-fund-direct-growth#overview",
-        "text": "[HDFC Mid Cap Fund Direct Growth] Category: Equity - Mid Cap. Risk Description: Moderately High risk. NAV: 223.138 (as of 04-Nov-2026). AUM: \u20b9101856.06 Cr. Launch Date: 01-Jan-2013.",
+        "text": "[HDFC Mid Cap Fund Direct Growth] Category: Equity - Mid Cap. Risk Description: Moderately High risk. NAV: 226.142 (as of 05-Nov-2026). AUM: \u20b9101856.06 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
             "scheme_name": "HDFC Mid Cap Fund Direct Growth",
             "slug": "hdfc-mid-cap-fund-direct-growth",
@@ -73,7 +73,7 @@
     },
     {
         "id": "hdfc-small-cap-fund-direct-growth#overview",
-        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 152.574 (as of 04-Nov-2026). AUM: \u20b940800.81 Cr. Launch Date: 01-Jan-2013.",
+        "text": "[HDFC Small Cap Fund Direct Growth] Category: Equity - Small Cap. Risk Description: Moderately High Riskometer risk. NAV: 153.386 (as of 05-Nov-2026). AUM: \u20b940800.81 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
             "scheme_name": "HDFC Small Cap Fund Direct Growth",
             "slug": "hdfc-small-cap-fund-direct-growth",
@@ -145,7 +145,7 @@
     },
     {
         "id": "hdfc-large-cap-fund-direct-growth#overview",
-        "text": "[HDFC Large Cap Fund Direct Growth] Category: Equity - Large Cap. Risk Description: Moderately High Riskometer risk. NAV: 1207.087 (as of 04-Nov-2026). AUM: \u20b937293.95 Cr. Launch Date: 01-Jan-2013.",
+        "text": "[HDFC Large Cap Fund Direct Growth] Category: Equity - Large Cap. Risk Description: Moderately High Riskometer risk. NAV: 1233.613 (as of 05-Nov-2026). AUM: \u20b937293.95 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
             "scheme_name": "HDFC Large Cap Fund Direct Growth",
             "slug": "hdfc-large-cap-fund-direct-growth",
@@ -155,7 +155,7 @@
     },
     {
         "id": "hdfc-large-cap-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Large Cap Fund Direct Growth] Expense Ratio: 1.02%",
+        "text": "[HDFC Large Cap Fund Direct Growth] Expense Ratio: 1.01%",
         "metadata": {
             "scheme_name": "HDFC Large Cap Fund Direct Growth",
             "slug": "hdfc-large-cap-fund-direct-growth",
@@ -217,7 +217,7 @@
     },
     {
         "id": "hdfc-gold-etf-fund-of-fund-direct-plan-growth#overview",
-        "text": "[HDFC Gold ETF Fund of Fund Direct Plan Growth] Category: Commodities - Gold. Risk Description: Moderately High Riskometer risk. NAV: 43.8573 (as of 04-Nov-2026). AUM: \u20b912013.27 Cr. Launch Date: 01-Jan-2013.",
+        "text": "[HDFC Gold ETF Fund of Fund Direct Plan Growth] Category: Commodities - Gold. Risk Description: Moderately High Riskometer risk. NAV: 44.5323 (as of 05-Nov-2026). AUM: \u20b912013.27 Cr. Launch Date: 01-Jan-2013.",
         "metadata": {
             "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
             "slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
@@ -289,7 +289,7 @@
     },
     {
         "id": "hdfc-defence-fund-direct-growth#overview",
-        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 30.289 (as of 04-Nov-2026). AUM: \u20b911493.39 Cr. Launch Date: 02-Jun-2023.",
+        "text": "[HDFC Defence Fund Direct Growth] Category: Equity - Thematic. Risk Description: Very High risk. NAV: 30.011 (as of 05-Nov-2026). AUM: \u20b911493.39 Cr. Launch Date: 02-Jun-2023.",
         "metadata": {
             "scheme_name": "HDFC Defence Fund Direct Growth",
             "slug": "hdfc-defence-fund-direct-growth",
@@ -299,7 +299,7 @@
     },
     {
         "id": "hdfc-defence-fund-direct-growth#expense_ratio",
-        "text": "[HDFC Defence Fund Direct Growth] Expense Ratio: 0.9%",
+        "text": "[HDFC Defence Fund Direct Growth] Expense Ratio: 0.89%",
         "metadata": {
             "scheme_name": "HDFC Defence Fund Direct Growth",
             "slug": "hdfc-defence-fund-direct-growth",
